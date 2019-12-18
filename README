@@ -1,5 +1,5 @@
 Okay so to run this, several prerequisites needed.
-A browser (duh), Javascript (also duh), node.js, express, axios, websocket (ws) (you can get last two from npm, which you also need to install).
+A browser (duh), Javascript (also duh), node.js, express, axios, websocket (ws) (you can get last three from npm, which you also need to install).
 All of these except browser and npm can be installed using commandline, so shouldn't be a problem.
 
 ANNDD, it's a wrap.
